@@ -1,0 +1,5 @@
+{
+  "name": "PDF Transcriber",
+  "description": "An application to transcribe text from PDF files, including text within images, using Gemini. It supports PDF files up to 200 MB.",
+  "requestFramePermissions": []
+}
